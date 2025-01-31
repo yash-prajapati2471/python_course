@@ -1,0 +1,6 @@
+a = ("yash","jay","bhavin","raj")
+b = list(a)
+b.append("hello")
+c = tuple(b)
+print(type(c))
+# print(type(a))
